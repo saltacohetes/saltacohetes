@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📫 How to reach me **jesus.fuentes.cantero@gmail.com**
+- 📫 You can conttact me at **jesus.fuentes.cantero@gmail.com**
 
-- ⚡ Fun fact **I love books!!!**
+- ⚡ **I love books!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
